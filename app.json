@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "realm-expo-app",
+    "slug": "realm-expo-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.tasaboia.realmexpoapp"
+    }
+  }
+}
